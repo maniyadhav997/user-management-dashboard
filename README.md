@@ -5,7 +5,7 @@
 1. Clone the repository:
 
    ```sh
-   git clone <repository-url>
+   git clone https://github.com/maniyadhav997/user-management-dashboard.git
    cd user-management-dashboard
    ```
 
